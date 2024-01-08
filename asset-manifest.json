@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Met-Body-Pose/static/css/main.4ccf7aeb.css",
+    "main.js": "/Met-Body-Pose/static/js/main.b634501d.js",
+    "index.html": "/Met-Body-Pose/index.html",
+    "main.4ccf7aeb.css.map": "/Met-Body-Pose/static/css/main.4ccf7aeb.css.map",
+    "main.b634501d.js.map": "/Met-Body-Pose/static/js/main.b634501d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4ccf7aeb.css",
+    "static/js/main.b634501d.js"
+  ]
+}
