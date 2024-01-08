@@ -2,9 +2,9 @@
 
 ## Model Used
 
-- [https://www.tensorflow.org/js](Tensorflow js)
-- [https://www.tensorflow.org/js/models](Tensorflow models)
-- [https://www.npmjs.com/package/react-webcam](React Webcam)
+- [Tensorflow js](https://www.tensorflow.org/js)
+- [Tensorflow models](https://www.tensorflow.org/js/models)
+- [React Webcam](https://www.npmjs.com/package/react-webcam)
 
 ## To Install the dependencies
 
