@@ -59,6 +59,15 @@ function App() {
 
 	return (
 		<div className='App'>
+			<h1
+				style={{
+					margin: 0,
+					padding: 0,
+					paddingTop: '8vh',
+				}}
+			>
+				MET - BODY POSE DETECTOR
+			</h1>
 			<header className='App-header'>
 				<Webcam
 					ref={webcamRef}
