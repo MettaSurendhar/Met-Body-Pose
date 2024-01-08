@@ -51,10 +51,6 @@ function App() {
 		}
 	};
 
-	// const drawCanvas = (pose, video, videoWidth, videoHeight, canvas) => {
-	//
-	// };
-
 	runPosenet();
 
 	return (
